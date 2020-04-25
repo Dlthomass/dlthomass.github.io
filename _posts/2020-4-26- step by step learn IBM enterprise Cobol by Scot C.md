@@ -5,7 +5,7 @@ The return email should direct them to this site:
 https://github.com/openmainframeproject/cobol-programming-course/
 
 and instruct them to (or suggest they) download the class instruction manual (materials):
-https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md
+<https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md>
 
 [No longer available: https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.pdf open with Acrobat Reader - has been removed]
 
