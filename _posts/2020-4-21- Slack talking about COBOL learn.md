@@ -1,4 +1,4 @@
- 1)The SEARCH verb (sequential and binary variations) is used quite often in Cobol programs. 
+ The SEARCH verb (sequential and binary variations) is used quite often in Cobol programs. 
  Interview question: "Explain table handling in Cobol."  Hint: Use the SEARCH verb and the REDEFINES clause in the DATA DIVISION.  
  
  2) Study 88 level items in the DATA DIVISION, what they are and how to use them. Also involves the SET verb.
