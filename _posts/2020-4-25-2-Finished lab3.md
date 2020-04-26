@@ -1,7 +1,5 @@
 # Finish lab3 of Cobol Programming with VScode
-
 ## Notes:
-
 * Cobol inputs and outputs
  * File-Contral (enviroment devision)
  * external data source
