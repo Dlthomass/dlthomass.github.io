@@ -1,4 +1,4 @@
-fter someone requests their credentials, here:
+after someone requests their credentials, here:
 https://www-01.ibm.com/events/wwe/ast/mtm/cobolvscode.nsf/enrollall?openform
 
 The return email should direct them to this site:
