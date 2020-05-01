@@ -1,1 +1,1 @@
-![image-20200501175553918](C:\Users\ADMIN\GitHub\dlthomass.github.io\images\image-20200501175553918.png)
+![image-20200501175553918](./images/image-20200501175553918.png)
